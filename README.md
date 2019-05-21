@@ -1,5 +1,5 @@
 # sportsBibtex
-A bibtex file with sports analytics references.  Contributions from the community are strongly encouraged. 
+A bibtex file with references useful for sports analytics papers.  Contributions from the community are strongly encouraged. 
 
 For each citation, the citation key has the form 
 
@@ -11,5 +11,7 @@ where
 - `YYYY` is the 4 digit year of the publication date
 - `keyword` is a keyword that distinguishes that from other papers by that author
 
-This citation key is the citation name that will be used with `[@citationkey]` in an `.rmd` paper and `\cite{citationkey}` in a `.tex` paper.
+The citation key is the citation name that will be used with `[@citationkey]` in an `.rmd` paper and `\cite{citationkey}` in a `.tex` paper.
+
+Citations are listed in (roughly) alphabetical order. 
 
