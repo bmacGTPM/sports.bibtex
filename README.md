@@ -1,4 +1,4 @@
-# sports.bibtex
+# sportsBibtex
 A bibtex file with sports analytics references.  Contributions from the community are strongly encouraged. 
 
 For each citation, the citation key has the form 
