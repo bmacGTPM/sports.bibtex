@@ -15,7 +15,7 @@ where
 
 The citation key is the citation name that will be used with `[@citationkey]` in an `.rmd` paper and `\cite{citationkey}` in a `.tex` paper. 
 
-The default citation key from Google Scholar, for example, is `lastnameYYYYfirstword`.  However, contributors may choose to change the default to using a `keyword` that is more memorable and use `lastnameYYYYkeyword`. For example, the default on Google Scholar for [this paper](http://statsportsconsulting.com/main/wp-content/uploads/Schuckers_Curro_MIT_Sloan_THoR.pdf) is `schuckers2013total`, but has been changed to `schuckers2013thor`. 
+The default citation key from Google Scholar, for example, is `lastnameYYYYfirstword`.  However, whoever contributes the citation may choose to change the default by choosing a `keyword` that is more memorable than `firstword` and use `lastnameYYYYkeyword` instead. For example, the default BibTeX citation key on Google Scholar for [this paper](http://statsportsconsulting.com/main/wp-content/uploads/Schuckers_Curro_MIT_Sloan_THoR.pdf) is `schuckers2013total`, but the person that contributed the citation changed it to `schuckers2013thor` since THOR is the acronym commonly used to refer to that paper and the metric developed within. 
 
 Note that you can get BibTeX citations on Google Scholar by searching for an author or article at https://scholar.google.com/ and clicking the quotation marks and "BibTeX" as shown here:
 
