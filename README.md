@@ -19,7 +19,7 @@ The default citation key from Google Scholar, for example, is `lastnameYYYYfirst
 
 Note that you can get BibTeX citations on Google Scholar by searching for an author or article at https://scholar.google.com/ and clicking the quotation marks and "BibTeX" as shown here:
 
-![GoogleScholarExample](GoogleScholarExample.PNG)
+![GoogleScholarExample](GoogleScholarExample.PNG | width=300)
 
 Citations are listed in alphabetical order by citation key.
 
